@@ -49,6 +49,7 @@
 	<properties>
 		<main.basedir>${basedir}</main.basedir>
 	</properties>
+	
 	<build>
 		<pluginManagement>
 			<plugins>
